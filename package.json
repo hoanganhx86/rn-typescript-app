@@ -23,7 +23,7 @@
     "@callstack/react-theme-provider": "^3.0.3",
     "color": "^3.1.2",
     "fbemitter": "^2.1.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "react": "16.9.0",
     "react-native": "0.61.4",
     "react-native-fast-image": "^7.0.2",
